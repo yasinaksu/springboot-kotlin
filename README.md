@@ -43,7 +43,7 @@ $ docker build -t political-speech-app .
 $ docker run -d --name political-speech-app -p 8080:8080 political-speech-app
 ```
 
-### 3. Maven ###
+### 2. Maven ###
 ```sh
 $PORT 8080       
 ```
